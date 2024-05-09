@@ -1,4 +1,4 @@
-# Employee Attrition Dashboard Project
+# HR Analytics Dashboard Project
 
 ## Overview
 
